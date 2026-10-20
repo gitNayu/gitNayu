@@ -5,5 +5,6 @@
 <br>
 I'm Nayu. Actually, it's my pseudonym.
 <br> I love Anime and Light Novels.
+<br> I play a lot Minecraft (1.20.4)
 <br> Interested in Visual, Audio and Subtitle QC.
 <br> The End.
