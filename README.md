@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**gitNayu/gitNayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Nayu's GitHub
+![Banner](banner.webp)
+---
+[![ProtonMail](https://img.shields.io/badge/Proton%20Mail-8A2BE2?style=flat&logo=protonmail&logoColor=white)](mailto:mail.nayu@proton.me)
+<br>
+I'm Nayu. Actually, it's my pseudonym.
+<br> I love Anime and Light Novels.
+<br> Interested in Visual, Audio and Subtitle QC.
+<br> Perfectionist
+<br> The End.
