@@ -11,8 +11,3 @@
 <br> Interested in Visual, Audio and Subtitle QC.
 <br> Perfectionist
 <br> The End.
-
-My latest Repo:
-<br> [anilist-metadata](github.com/gitNayu/anilist-metadata)
-<br> A small Python tool that makes metadata files for your comics and light novels, using [AniList](https://anilist.co).
-<br>
