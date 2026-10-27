@@ -6,7 +6,13 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1557643457349165140)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nayyyyuuuuu)
 <br>
+<br> Bio:
 <br> I love Anime and Light Novels.
 <br> Interested in Visual, Audio and Subtitle QC.
 <br> Perfectionist
 <br> The End.
+
+My latest Repo:
+<br> [anilist-metadata](github.com/gitNayu/anilist-metadata)
+<br> A small Python tool that makes metadata files for your comics and light novels, using [AniList](https://anilist.co).
+<br>
