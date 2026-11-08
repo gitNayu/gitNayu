@@ -7,7 +7,7 @@ Linux, open source, privacy, media tooling. I mostly write Python.
 ## Currently working on
 
 - **Unofficial Crunchyroll Client (Python)**: independent API client, with other languages to follow
-- **unnamed**: a large QA tool for subtitles, video and audio
+- **unnamed**: a large QC tool for subtitles, video and audio
 
 ## Projects
 
