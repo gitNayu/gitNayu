@@ -18,7 +18,7 @@ Linux, open source, privacy, media tooling. I mostly write Python.
 
 ## Stack
 
-Debian / Raspberry Pi (ARM64) · Python · TypeScript · Java · FFmpeg · MKVToolNix
+Debian / Raspberry Pi (ARM64) · Python · FFmpeg · MKVToolNix
 
 ## Contact
 
