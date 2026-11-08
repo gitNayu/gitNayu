@@ -11,7 +11,7 @@ Linux, open source, privacy, media tooling. I mostly write Python.
 
 ## Projects
 
-- [**crunchyroll-client**](https://github.com/gitNayu/crunchyroll-client): umbrella repo for the unofficial Crunchyroll client
+- [**crunchyroll-sdk**](https://github.com/gitNayu/crunchyroll-sdk): umbrella repo for my unofficial Crunchyroll sdk
 - [**anilist-metadata**](https://github.com/gitNayu/anilist-metadata): AniList metadata for manga and light novels (epub, cbz, ComicInfo)
 - [**anilist-franchise-dl**](https://github.com/gitNayu/anilist-franchise-dl): builds a local AniList copy of a whole franchise
 - [**guest-chatgpt**](https://github.com/gitNayu/guest-chatgpt): terminal ChatGPT as a guest, no account or API key
