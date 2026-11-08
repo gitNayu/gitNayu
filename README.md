@@ -16,6 +16,9 @@ Linux, open source, privacy, media tooling. I mostly write Python.
 - [**anilist-franchise-dl**](https://github.com/gitNayu/anilist-franchise-dl): builds a local AniList copy of a whole franchise
 - [**guest-chatgpt**](https://github.com/gitNayu/guest-chatgpt): terminal ChatGPT as a guest, no account or API key
 
+- [**chessdotcom2pgn**](https://github.com/gitNayu/chessdotcom2pgn):
+A simple Python script to export your Chess.com game history as individual PGN files.
+
 ## Stack
 
 Debian / Raspberry Pi (ARM64) · Python · FFmpeg · MKVToolNix
