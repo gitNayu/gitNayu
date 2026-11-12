@@ -29,3 +29,4 @@ Debian / Raspberry Pi (ARM64) · Python · FFmpeg · MKVToolNix
 [![guns.lol](https://img.shields.io/badge/guns.lol-8A2BE2?style=flat&logoColor=white)](https://guns.lol/epub)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1557643457349165140)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nayyyyuuuuu)
+[![Chess.com](https://img.shields.io/badge/Chess.com-nayu0chess-81b64c?logo=chessdotcom&logoColor=white)](https://www.chess.com/member/nayu0chess)
